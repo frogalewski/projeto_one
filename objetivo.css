@@ -1,0 +1,130 @@
+#banner {
+	width: 100%;
+}
+
+.icone{
+	float: left;
+}
+
+main ul li{
+	display: flex;
+	align-items: center;
+}
+
+@media(max-width: 600px){ 
+main ul li{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}  
+    }
+
+.pergunta{
+	width: 90%;
+	font-size: 60px;
+	font-weight: bold;
+	color:#8B008B;
+    text-align: top;
+    padding-top: 13px;
+    display: inline-block;
+    
+      }
+
+
+      .icones2{
+      	float: right;
+      }
+
+      .pergunta2{
+    width: 90%;
+	padding: 0 100px;
+	font-size: 60px;
+	font-weight: bold;
+	color:#8B008B;
+    text-align: top;
+    padding-top: 13px;
+    display: inline-block;
+
+      }
+      .resposta{
+       width: 90%;
+	padding: 0 50px;
+	font-size: 30px;
+	font-weight: bold;
+	color:	blue;
+    text-align: top;
+    padding-top: 13px;
+    display: inline-block;
+    
+
+      }
+
+      .resposta2 {
+      	 width: 90%;
+	padding: 0 20x;
+	font-size: 30px;
+	font-weight: bold;
+	color:#000000;
+    text-align: top;
+    padding-top: 6px;
+    display: flex;
+    margin: 20px;
+    font-style: italic;
+
+      }
+
+      .codigo{
+      	width: 80%;
+      	margin: 50px;
+      }
+      .trofeu{
+      	width: 80%;
+      	display: flex;
+      
+  	 
+	     }
+	     .aristoteles{
+	     	text-align: left;
+	     	font-weight: bold;
+	     	width: 90%;
+	     	display: flex;
+	     	margin-top: 100px;
+	     	padding-top: 12px;
+	     	font-size: 30px;
+	     	color: red;
+	     	font-style: italic;
+	     	display: flex;
+
+
+
+	     }
+	     .inicio{
+  	padding: 20px;
+ 	background: blue;
+ 	font-size:30px;
+	font-style: none;
+	font-weight: bold;
+	border: none;
+  	display: inline-block;
+	position: absolute; 
+	background: white;	
+	left: 600px;
+  	top: 2500px;
+  	  }
+
+
+      footer{
+
+ 	text-align: center;
+ 	background: url("rodape.jpg");
+ 	padding: 2px 0;
+ 	
+ }
+ .copyright{
+ 	color: #FFFFFF;
+ 	font-size: 22px;
+ 	 }
+
+ 	 
+ 	 	
+ 	 

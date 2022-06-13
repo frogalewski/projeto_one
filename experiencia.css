@@ -1,0 +1,124 @@
+#banner {
+	width: 100%;
+}
+header{
+	background: #FFFFFF;
+	padding: 0 0;
+}
+.caixa{
+	position: relative;
+	width:100%;
+	margin: 0 auto;
+      }
+
+.icones{
+	width: 1200px;
+	margin: 0 auto;
+	padding: 80px 0;
+	
+}
+
+.icones li{
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+}
+.icones h2 {
+	font-size: 25px;
+	font-weight: bold;
+	color: #8B008B;
+}
+
+.tempo{
+	font-size: 30px;
+	font-weight: bold;
+}
+.titulo-principal{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	color: blue;
+}
+.rotulo{
+	width: 84%;
+	margin: 0 auto;
+}
+.titulo{
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	color: blue;
+	padding: 2%;
+}
+.pc{
+	width: 45%;
+	margin: 0 auto;
+	}
+	.titulo2{
+	font-size: 27px;
+	font-weight: bold;
+	text-align: right;
+	color: blue;
+	padding: 10%;
+	vertical-align:text-top; 
+	}
+
+	.titulo3{
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color: blue;
+	padding: 5%;
+	vertical-align:text-top; 
+	width: 48%;
+	display: inline-block;
+	position: absolute; 
+	left: 60px; 
+	top: 1240px; 
+	}
+
+	
+  .titulo4{
+  	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+	color: blue;
+	padding: 5%;
+	vertical-align:text-top; 
+	width: 58%;
+	display: inline-block;
+	position: absolute; 
+	left: 60px; 
+	top: 1620px; 
+  }
+
+  .producao{
+   	width: 55%;
+  	margin: 0 auto;
+  }
+
+  .inicio{
+  	padding: 20px;
+ 	background: blue;
+ 	font-size:30px;
+	font-style: none;
+	font-weight: bold;
+	border: none;
+  	display: inline-block;
+	position: absolute; 
+	background: white;	
+	left: 600px;
+  	top: 2000px;
+}
+footer{
+ 	text-align: center;
+ 	background: url("rodape.jpg");
+ 	padding: 7px 0;
+ 	 }
+ .copyright{
+ 	color: #FFFFFF;
+ 	font-size: 10px;
+ 	margin: 18px;
+ }
+	

@@ -1,0 +1,54 @@
+header {
+
+	font-size: 70px;
+	color: #8C0CF6;
+	position: absolute;
+	top: 170px;
+	right: 150px;
+	font-weight: bold;
+	font-display: 20px;
+}
+
+.informacao{
+	font-size: 32px;
+	color:#2E2E2E;
+	padding: 10px;
+	margin: 15px;
+	font-weight: bold;
+	background: none;
+	font-style: italic;
+} 
+
+.contair img{
+	width:60%;
+	position: absolute;
+	right: 250px;
+	top: 250px;
+	background: transparent;
+	}
+
+	 .inicio{
+  	padding: 20px;
+ 	background: blue;
+ 	font-size:30px;
+	font-style: none;
+	font-weight: bold;
+	border: none;
+  	display: inline-block;
+	position: absolute; 
+	background: white;	
+	left: 560px;
+  	top: 700px;
+  }
+
+footer{
+ 	text-align: center; 
+ 	background: url("rodape.jpg");
+ 	padding: 8px 0 ;
+ 	top: 400px; 	 
+ }
+ .copyright{
+ 	color: #FFFFFF;
+ 	font-size: 20px;
+ 	margin: 50px;
+ }
