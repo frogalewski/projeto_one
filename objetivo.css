@@ -1,4 +1,4 @@
-#banner {#banner {
+#banner {
 	width: 100%;
 }
 
@@ -70,6 +70,57 @@ main ul li{
     display: flex;
     margin: 20px;
     font-style: italic;
+
+      }
+
+      .codigo{
+      	width: 80%;
+      	margin: 50px;
+      }
+      .trofeu{
+      	width: 80%;
+      	display: flex;
+      
+  	 
+	     }
+	     .aristoteles{
+	     	text-align: left;
+	     	font-weight: bold;
+	     	width: 90%;
+	     	display: flex;
+	     	margin-top: 100px;
+	     	padding-top: 12px;
+	     	font-size: 30px;
+	     	color: red;
+	     	font-style: italic;
+	     	display: flex;
+	     }
+	     .inicio{
+  	padding: 20px;
+ 	background: blue;
+ 	font-size:30px;
+	font-style: none;
+	font-weight: bold;
+	border: none;
+  	display: inline-block;
+	position: absolute; 
+	background: white;	
+	left: 600px;
+  	top: 2500px;
+  	  }
+
+
+      footer{
+
+ 	text-align: center;
+ 	background: url("rodape.jpg");
+ 	padding: 2px 0;
+ 	
+ }
+ .copyright{
+ 	color: #FFFFFF;
+ 	font-size: 22px;
+ 	 }
 
       }
 
