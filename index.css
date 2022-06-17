@@ -97,3 +97,33 @@ nav a:hover{
     margin: 30px;
     
 }
+
+.icones li:hover {
+border-color: #140d6c;
+}
+
+.icones li:active {
+	border-color: #f00875;
+}
+
+
+ .icones h2{
+ 	font-size: 35px;
+ 	font-weight: bold;
+ }
+
+ footer{
+ 	    width: 1350px;
+    text-align: center;
+    background: url(rodape.jpg);
+    padding: 8px 0;
+ 	
+
+ }
+ .copyright{
+ 	color: #FFFFFF;
+ 	font-size: 13px;
+ 	margin: 20px;
+ }
+
+
