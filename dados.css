@@ -29,25 +29,98 @@ header {
 
 	 .inicio{
   	padding: 20px;
- 	background: blue;
  	font-size:30px;
-	font-style: none;
 	font-weight: bold;
-	border: none;
-  	display: inline-block;
+	color: #ffffff;
+	text-decoration: none;
+	display: inline-block;
 	position: absolute; 
-	background: white;	
+	background: #FF5733;	
 	left: 560px;
-  	top: 1100px;
+  	top: 1140px;
   }
 
+  @media screen and (max-width: 480px){
+		.icones, {
+		width: 100%;
+		}
+		header{
+         font-size: 48px;
+         color: #8C0CF6;
+         position: absolute;
+         top: 136px;
+         left: 230px;
+         font-weight: bold;
+		}
+
+		.contair img {
+         width: 60%;
+         position: absolute;
+         right: -172px;
+         top: 274px;
+         background: transparent;
+        }
+		h1 {
+        width: 100%;
+        }
+        .informacao {
+         font-size: 40px;
+         color: #2E2E2E;
+         margin: 0;
+         font-weight: bold;
+         background: none;
+         font-style: italic;
+        }
+         .inicio {
+          padding: 20px;
+          font-size: 30px;
+          font-weight: bold;
+          color: #ffffff;
+          text-decoration: none;
+          display: inline-block;
+          position: absolute;
+          background: #FF5733;
+          left: 192px;
+          top: 1458px;
+          text-decoration-line: none;
+         }
+
+	
+	.banner{
+		width: 100px;
+	}
+li{
+		width: 100;	
+	}
+	nav {
+    position:static;
+   }
+    
+   html{
+   	width: 100%;
+   }
+   footer {
+    width: 100%;
+    text-align: center;
+    background: url(rodape.jpg);
+    padding: 8px 110px
+      }
+       .copyright{
+ 	color: #FFFFFF;
+ 	font-size: 20px;
+ 	margin: 50px;
+         }
+           }
+
 footer{
+	width: 100%;
  	text-align: center; 
  	background: url("rodape.jpg");
- 	padding: 8px 0 ;
- 	top: 400px; 	 
- }
- .copyright{
+ 	padding: 8px 80px ;
+ 	top: 1480px; 	 
+        }
+
+  .copyright{
  	color: #FFFFFF;
  	font-size: 20px;
  	margin: 50px;
