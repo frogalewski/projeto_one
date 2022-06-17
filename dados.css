@@ -27,17 +27,7 @@ header {
 	background: transparent;
 	}
 
-	 .inicio{
-  	padding: 20px;
- 	font-size:30px;
-	font-weight: bold;
-	color: #ffffff;
-	text-decoration: none;
-	display: inline-block;
-	position: absolute; 
-	background: #FF5733;	
-	left: 560px;
-  	top: 1140px;
+	 
   }
 
   @media screen and (max-width: 480px){
@@ -75,7 +65,6 @@ header {
           padding: 20px;
           font-size: 30px;
           font-weight: bold;
-          color: #ffffff;
           text-decoration: none;
           display: inline-block;
           position: absolute;
