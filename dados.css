@@ -41,11 +41,11 @@ header {
   }
 
   @media screen and (max-width: 480px){
-		.icones, {
+		 {
 		width: 100%;
 		}
 		header{
-         font-size: 48px;
+         font-size: 30px;
          color: #8C0CF6;
          position: absolute;
          top: 136px;
@@ -56,8 +56,8 @@ header {
 		.contair img {
          width: 60%;
          position: absolute;
-         right: -172px;
-         top: 274px;
+         right: -61px;
+         top: 254px;
          background: transparent;
         }
 		h1 {
@@ -81,7 +81,7 @@ header {
           position: absolute;
           background: #FF5733;
           left: 192px;
-          top: 1458px;
+          top: 1528px;
           text-decoration-line: none;
          }
 
@@ -116,7 +116,7 @@ footer{
 	width: 100%;
  	text-align: center; 
  	background: url("rodape.jpg");
- 	padding: 8px 80px ;
+ 	padding: 8px 110px ;
  	top: 1480px; 	 
         }
 
