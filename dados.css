@@ -2,11 +2,9 @@ header {
 
 	font-size: 70px;
 	color: #8C0CF6;
-	position: absolute;
-	top: 170px;
-	right: 150px;
+	position: relative;
 	font-weight: bold;
-	font-display: 20px;
+	text-align: center;
 }
 
 .informacao{
@@ -19,13 +17,40 @@ header {
 	font-style: italic;
 } 
 
-.contair img{
-	width:60%;
-	position: absolute;
-	right: 250px;
-	top: 250px;
-	background: transparent;
+h2 img {
+    width: 60%;
+    padding-left: 228px;
+    top: 150px;
+    text-align: center;
+    position: absolute;
+}
+	
+
 	}
+	.inicio{
+		 padding: 20px;
+          font-size: 30px;
+          font-weight: bold;
+          display: inline-block;
+          position: absolute;
+          background: #FF5733;
+          text-align: center;
+          
+
+	}
+	footer {
+    width: 100%;
+    text-align: center;
+    background: url(rodape.jpg);
+    padding: 8px 118px;
+	 
+        }
+
+  .copyright{
+ 	color: #FFFFFF;
+ 	font-size: 20px;
+ 	margin: 50px;
+ }
 
 	 
   }
@@ -34,25 +59,23 @@ header {
 		.icones, {
 		width: 100%;
 		}
-		header{
-         font-size: 30px;
-         color: #8C0CF6;
-         position: absolute;
-         top: 136px;
-         left: 230px;
-         font-weight: bold;
-		}
+	header{        
+	font-size: 70px;
+    color: #8C0CF6;
+    position: relative;
+    font-weight: bold;
+}
+         h2 img{
+         	width: 60%;
+    padding-left: 300px;
+	top: 150px;
+	text-align: center;
+	position: absolute;
+	background: transparent;
+	
 
-		.contair img {
-         width: 60%;
-         position: absolute;
-         right: -61px;
-         top: 254px;
-         background: transparent;
-        }
-		h1 {
-        width: 100%;
-        }
+	}
+		
         .informacao {
          font-size: 40px;
          color: #2E2E2E;
@@ -61,22 +84,25 @@ header {
          background: none;
          font-style: italic;
         }
-         .inicio {
-          padding: 20px;
+          .inicio{
+		 padding: 20px;
           font-size: 30px;
           font-weight: bold;
-          text-decoration: none;
           display: inline-block;
           position: absolute;
           background: #FF5733;
-          left: 192px;
-          top: 1600px;
-          text-decoration-line: none;
-         }
+          text-align: center;
+
+	}
 
 	
 	.banner{
 		width: 100px;
+	}
+
+
+	.mapa{
+		width: 100%;
 	}
 li{
 		width: 100;	
@@ -92,7 +118,7 @@ li{
     width: 100%;
     text-align: center;
     background: url(rodape.jpg);
-    padding: 8px 110px
+    padding: 8px 40px
       }
        .copyright{
  	color: #FFFFFF;
@@ -101,12 +127,13 @@ li{
          }
            }
 
-footer{
-	width: 100%;
- 	text-align: center; 
- 	background: url("rodape.jpg");
- 	padding: 8px 80px ;
- 	top: 1480px; 	 
+
+	footer {
+    width: 100%;
+    text-align: center;
+    background: url(rodape.jpg);
+    padding: 8px 118px;
+	 
         }
 
   .copyright{
